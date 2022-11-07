@@ -50,7 +50,7 @@ async function getData(){
         bg.classList.remove('animated-bg')
     })
     animated_bg_texts.forEach(bg=>{
-        bg.classList.remove('animated-bg')
+        bg.classList.remove('animated-bg-text')
     })
 
 
